@@ -37,6 +37,7 @@ I am a Junior Java Developer from Moscow, Russia. Now I'm actively improving my 
 
 * [My Habr profile](https://career.habr.com/a88217)
 * [My Hexlet account](https://ru.hexlet.io/u/aleksandr_muzalev)
+* [My CV (english)](https://cv.hexlet.io/resumes/3648)
 * [My CV (russian)](https://cv.hexlet.io/ru/resumes/3282)
 
 ### ☎️ Contacts:
